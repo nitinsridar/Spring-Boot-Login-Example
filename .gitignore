@@ -1,0 +1,27 @@
+#target/
+#!.mvn/wrapper/maven-wrapper.jar
+
+target
+bin
+
+.settings
+
+/.class
+
+### STS ####
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+
+springBeans
+### IntelliJ iDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+#application properties
+src/main/resources/application.properties
+.DS_Store
